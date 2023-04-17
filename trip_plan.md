@@ -1,3 +1,4 @@
 # Trip Plan
 
 * passport
+* ticket
