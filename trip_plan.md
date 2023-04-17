@@ -1,3 +1,3 @@
 # Trip Plan
 
-* passport
+* passport & visa
